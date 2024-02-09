@@ -1,3 +1,6 @@
 # Marketing-Performance-Analysis
 
-![](Project_Dataset.xlsx)
+![](DASHBOARD_IMAGE.jpg)
+
+
+
