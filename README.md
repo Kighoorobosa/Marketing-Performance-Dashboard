@@ -51,7 +51,6 @@ The report comprises of only one (1) page:
 1. Marketing Performance Dashboard
 
 You can interact with the report [here](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2FKighoorobosa%2FMarketing-Performance-Dashboard%2Fmain%2FProject%2520Dataset.xlsx&wdOrigin=BROWSELINK)
-
 ## Features
 -Key Metrics Overview
 
@@ -82,7 +81,7 @@ There 25 products in the shop.
 Total Purchase Amount is 233,132(USD)
 
 Marketing Performance Dashboard:
-![](DASHBOARD_IMAGE.jpg)
+![](DashboardImage.jpg)
 
 ## Conclusion:
 They are 25 products in the store with a total purchase amount of 233,132.00USD
