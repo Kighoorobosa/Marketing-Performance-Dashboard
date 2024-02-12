@@ -81,7 +81,7 @@ There 25 products in the shop.
 Total Purchase Amount is 233,132(USD)
 
 Marketing Performance Dashboard:
-![](Dashboard_Image.jpg)
+![](DASHBOARD_IMAGE.jpg)
 
 ## Conclusion:
 They are 25 products in the store with a total purchase amount of 233,132.00USD
