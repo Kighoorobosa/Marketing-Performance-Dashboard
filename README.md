@@ -7,7 +7,7 @@ The project is to provide insight into where the marketing department can channe
 **_Disclaimer_**: _All datasets and reports do not represent any company, institution, or country but are just a dummy dataset to demonstrate the capabilities of Microsoft Excel._
 
 ## Problem statement
-1 Which Product has the highest performance on Total Purchase Amount in relative to Season,Discount available and subscription status?
+1. Which Product has the highest performance on Total Purchase Amount in relative to Season,Discount available and subscription status?
 
 2. What are the customer choices with respect to color?
 
